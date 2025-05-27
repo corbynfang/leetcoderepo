@@ -4,4 +4,4 @@
 - Time Complexity: Decribes the amounts of time necessary execute an algo.
 - Space Complexity: Decribes the amount of memory or space utilzed by an algo/program.
 
-Big (O) Cheet Sheets images:
+Big (O) Cheet Sheet Graph: ![Cheet Sheet][chart.png]
