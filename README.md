@@ -5,4 +5,4 @@
 - Space Complexity: Decribes the amount of memory or space utilzed by an algo/program.
 
 Big (O) Cheet Sheet Graph
-[chart]: https://github.com/corbynfang/leetcoderepo/blob/main/images/chart.png
+![Cheet Sheet](https://github.com/corbynfang/leetcoderepo/blob/main/images/chart.png)
