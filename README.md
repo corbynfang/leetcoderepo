@@ -9,6 +9,8 @@ A very useful chart by:
 https://www.bigocheatsheet.com/
 ![Cheet Sheet](https://github.com/corbynfang/leetcoderepo/blob/main/images/chart.png)
 
+## Big-O Summary from the graph
+
 Big-O | Name | Description
 ------| ---- | -----------
 **O(1)** | constant | **This is the best.** The algorithm always takes the same amount of time, regardless of how much data there is. Example: looking up an element of an array by its index.
